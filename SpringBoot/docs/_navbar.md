@@ -1,0 +1,12 @@
+* 码云地址
+    * [我的主页](http://gitee.com/kenny1994)
+    * [JUC](http://kenny1994.gitee.io/juc)
+    * [面试题整理_进行中](http://gitee.com/kenny1994)
+    * [springboot_进行中](http://gitee.com/kenny1994)
+    * [mysql_进行中](http://gitee.com/kenny1994)
+* 项目地址
+    * [我的主页](https://github.com/kenny19940602)
+    * [JUC](https://kenny19940602.github.io/Juc/#/)
+    * [面试题整理_进行中](https://github.com/kenny19940602)
+    * [springboot_进行中](https://github.com/kenny19940602)
+    * [mysql_进行中](https://github.com/kenny19940602)
